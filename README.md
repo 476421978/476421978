@@ -1,4 +1,12 @@
 ### Hi there 👋
+- 🔭 I’m currently working on a corporation
+- 🌱 I’m currently learning on my blog
+- 📫 How to reach me: 476421978@qq.com
+- Record my work life
+- 纸上得来终觉浅，绝知此事要躬行。
+- Paper from the end sense shallow, never know this matter to practice.
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=476421978&show_icons=true&theme=radical)
 
 <!--
 **476421978/476421978** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
